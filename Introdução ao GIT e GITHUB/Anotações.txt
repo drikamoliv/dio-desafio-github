@@ -1,0 +1,2 @@
+Posso abrir um arquivo TXT e fazer anotações sobre as aulas.
+O Git Bash é um terminal extendido para otimizar o uso do Git.
